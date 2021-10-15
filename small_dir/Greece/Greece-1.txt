@@ -1,0 +1,3 @@
+928 George Papadopoulos Greece 52 COVID-19 NO
+889 John Papadopoulos Greece 52 COVID-19 YES 27-12-2020
+927 Thanasis Kolokithas Greece 23 COVID-19 YES 03-02-2020
