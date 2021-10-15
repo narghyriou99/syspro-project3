@@ -10,3 +10,4 @@ Makefile: make: separate compilation
           make valgrind: valgrind ./travelMonitorClient -m 10 -b 16 -c 10 -s 100000 -i ./big_dir -t 5
           make clean: Ekkatharisi .o, ektelesimwn kai log files
           make count: Total lines of code
+
